@@ -1,0 +1,15 @@
+Docker
+
+Como funciona?
+
+Criação de ambiente isolados (container)
+Container expoe portas de comunicação
+
+Pincipais conceitos
+
+Imagem
+Container
+Docker Registry (Docker Hub)
+
+Dockerfile
+- Receita de uma imagem
